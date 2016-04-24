@@ -1179,4 +1179,4 @@ cc.game.addEventListener(cc.game.EVENT_RENDERER_INITED, function() {
     }
 });
 
-export const QcDrawNode = cc.QcDrawNode;
+exports.QcDrawNode = cc.QcDrawNode;
