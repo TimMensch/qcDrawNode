@@ -1,0 +1,19 @@
+{
+  "name": "qcdrawnode",
+  "version": "1.0.0",
+  "description": "A modified Cocos2d-html DrawNode",
+  "main": "src/qcDrawNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmensch/qcDrawNode.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timmensch/qcDrawNode/issues"
+  },
+  "homepage": "https://github.com/timmensch/qcDrawNode#readme"
+}
