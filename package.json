@@ -1,6 +1,6 @@
 {
   "name": "qcdrawnode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A modified Cocos2d-html DrawNode",
   "main": "src/qcDrawNode.js",
   "scripts": {
