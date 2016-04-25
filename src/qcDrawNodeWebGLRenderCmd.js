@@ -22,8 +22,6 @@
  THE SOFTWARE.
  ****************************************************************************/
 
-import * as cc from "cocos2d";
-
 /* eslint-disable*/
 let WebGLRenderCmd = function(renderableObject) {
     cc.Node.WebGLRenderCmd.call(this, renderableObject);

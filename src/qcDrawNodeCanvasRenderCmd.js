@@ -22,8 +22,6 @@
  THE SOFTWARE.
  ****************************************************************************/
 
-import * as cc from "cocos2d";
-
 /* eslint-disable */
 var CanvasRenderCmd = function(renderableObject) {
     cc.Node.CanvasRenderCmd.call(this, renderableObject);
